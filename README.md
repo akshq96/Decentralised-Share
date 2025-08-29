@@ -27,7 +27,6 @@ I will upload the video with better video quality asap. (im lil busy)
 ### nodejs Gun server
 
 <h4>Ready to use</h4>
-https://github.com/vanoob404/gun-db
 
 - [ ] improve ui of dashboard
 - [ ] fixing dashboard/history maping from db. i messed that up :(
