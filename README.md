@@ -17,10 +17,11 @@ A decentralized application (dapp) is an application built on a decentralized ne
 It is a File sharing app, built using web3.storage, Gun.js.
 It stores all files on IPFS with the help of we3.storage & all the data stuff (sender's addres, recipient address, cid of files.) using gun.js
 
-## Demo video 🎞 👀
+🎞 👀
 
+<!--
 https://www.youtube.com/watch?v=18UOcS169bc&t
-I will upload the video with better video quality asap. (im lil busy)
+I will upload the video with better video quality asap. (im lil busy) -->
 
 ## 🚀 Launch your gun.js server
 
