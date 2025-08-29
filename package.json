@@ -1,0 +1,32 @@
+{
+  "name": "anon-share",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@babel/core": "^7.4.0-0",
+    "@rainbow-me/rainbowkit": "^0.8.0",
+    "@typescript-eslint/parser": "^4.0.0",
+    "boring-avatars": "^1.7.0",
+    "eslint": "^7.0.0",
+    "eslint-config-next": "13.0.3",
+    "ethers": "^5.7.2",
+    "framer-motion": "^7.6.7",
+    "gun": "^0.2020.1238",
+    "next": "13.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-drag-drop-files": "^2.3.7",
+    "react-is": "^18.2.0",
+    "react-scroll-parallax": "^3.3.2",
+    "sass": "^1.56.1",
+    "typescript": "^4.9.3",
+    "wagmi": "^0.8.5",
+    "web3.storage": "^4.4.0"
+  }
+}

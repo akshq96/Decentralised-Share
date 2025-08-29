@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap");
+
+/*font face*/
+@font-face {
+  font-family: "Tall Font";
+  src: url("/fonts/LasValles.otf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Covered By Your Grace", cursive;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+/* *::-webkit-scrollbar {
+  display: none;
+}
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+} */
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
